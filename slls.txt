@@ -1,0 +1,7 @@
+Скиллы, которые будут изучены на курсе:
+команды в GitBush, GitHub
+языки разметки JSON, XML
+DevTool в Google Chrome, FireFox
+перехват мобильно трафика в Charles, Fiddler
+основы SQL
+
