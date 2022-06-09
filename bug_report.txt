@@ -1,0 +1,9 @@
+ID:             YBUG-42
+Summary:        Клик по слову «Метро» в логотипе ведёт на главную страницу Яндекса
+STR:
+                1 Открыть https://qa-metro.stand-1.praktikum-services.ru/moscow
+                2 Кликнуть по слову «Метро» в логотипе Яндекс Метро
+ActualResult:   открывается главная страница Яндекса
+ExpectedResult: открывается страница Яндекс Метро
+Environment:    Яндекс.Браузер
+Priority:       Middle
